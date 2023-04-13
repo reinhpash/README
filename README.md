@@ -15,9 +15,6 @@ Unity game developer<br>I am developing my skills to create the games of my drea
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=reinhpash&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
 ### 😂 Random Dev Meme
 <img src="https://rm.up.railway.app/" width="512px"/>
 
