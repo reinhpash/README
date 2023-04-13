@@ -1,5 +1,6 @@
 # 💫 About Me:
-Unity game developer<br>I am developing my skills to create the games of my dreams.
+🕹️Unity game developer<br>
+I am developing my skills to create the games of my dreams.
 
 
 ## 🌐 Socials:
