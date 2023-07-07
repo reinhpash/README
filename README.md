@@ -1,6 +1,6 @@
 # 💫 About Me:
-<a href="https://burakpiskin.netlify.app/" More about me </a>
 🕹️Unity game developer<br>
+https://burakpiskin.netlify.app/<br>
 I am developing my skills to create the games of my dreams.
 
 
